@@ -14,7 +14,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 public class Consumer {
-	private static final String GROUP_ID = "my_consumer_app";
+	private static final String GROUP_ID = "my_consumer_ap2p";
 	private static final String TOPIC = "second_topic";
 	static Logger logger = LoggerFactory.getLogger(Consumer.class);
 
